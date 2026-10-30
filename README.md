@@ -3,8 +3,8 @@
 **Course Project – Computer Vision with Python**
 
 ### Authors
-- **Huynh Vo Phuc Loc** – 22146344  
-- **Nguyen Thien Nhan** – 22146364  
+- **Huynh Vo Phuc Loc**
+- **Nguyen Thien Nhan**  
 
 ---
 
