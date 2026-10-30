@@ -1,7 +1,5 @@
 # Computer Vision Application (Image Processing)
 
-**Course Project – Computer Vision with Python**
-
 ### Authors
 - **Huynh Vo Phuc Loc**
 - **Nguyen Thien Nhan**  
